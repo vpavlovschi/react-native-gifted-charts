@@ -8,7 +8,7 @@ import {
   Platform,
   UIManager,
 } from 'react-native';
-import LinearGradient from 'expo-linear-gradient';
+import { LinearGradient } from 'expo-linear-gradient';
 import Svg, {Defs, Rect} from 'react-native-svg';
 import {BarDefaults} from '../utils/constants';
 import {stackItemType} from './types';
